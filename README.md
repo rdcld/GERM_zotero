@@ -5,4 +5,4 @@ Das ist ein inoffizielles Projekt im Rahmen der Introduction to Digital Data and
 
 Auf der Seite werden die Fortschritte und Probleme der Anpassung des Zotero Citation Styles dokumentiert. 
 
-Die Hauptseite des inoffiziellen Projekt findet sich unter: https://github.com/DH2016Zotero/GERM_zotero.
+Eine Vorstellung des inoffiziellen Projekt findet sich unter: https://github.com/DH2016Zotero/GERM_zotero.
