@@ -5,6 +5,6 @@ Das ist ein inoffizielles Projekt im Rahmen der Introduction to Digital Data and
 
 Auf der Seite werden die Fortschritte und Probleme der Anpassung des *inoffiziellen Zotero Citation Styles* für das Institut für Germanistik dokumentiert. 
 
-Eine Vorstellung des *inoffiziellen Projekts* findet sich unter: https://github.com/DH2016Zotero/GERM_zotero/wiki.
+Eine Vorstellung des *inoffiziellen Mini-Projekts* findet sich unter: https://github.com/DH2016Zotero/GERM_zotero/wiki.
 
 Der frühe Code kann [*hier*](https://github.com/rdcld/GERM_zotero/blob/master/dh2016_germ.csl) angesehen werden.
