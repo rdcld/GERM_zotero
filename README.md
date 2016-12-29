@@ -7,4 +7,4 @@ Auf der Seite werden die Fortschritte und Probleme der Anpassung des *inoffiziel
 
 Eine Vorstellung des *inoffiziellen Mini-Projekts* findet sich unter: https://github.com/DH2016Zotero/GERM_zotero/wiki.
 
-Der frühe Code kann [*hier*](https://github.com/rdcld/GERM_zotero/blob/master/dh2016_germ.csl) angesehen werden.
+Der frühe Code kann [*hier*](https://github.com/rdcld/GERM_zotero/commit/0662016e7e0d13285c9e9a2e5b4bb3bfa438d354) angesehen werden.
